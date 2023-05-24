@@ -1,0 +1,16 @@
+C:\Users\Роман\source\repos\GameOfLife\GameOfLife.ViewModels\bin\Debug\net5.0\GameOfLife.ViewModels.deps.json
+C:\Users\Роман\source\repos\GameOfLife\GameOfLife.ViewModels\bin\Debug\net5.0\GameOfLife.ViewModels.dll
+C:\Users\Роман\source\repos\GameOfLife\GameOfLife.ViewModels\bin\Debug\net5.0\ref\GameOfLife.ViewModels.dll
+C:\Users\Роман\source\repos\GameOfLife\GameOfLife.ViewModels\bin\Debug\net5.0\GameOfLife.ViewModels.pdb
+C:\Users\Роман\source\repos\GameOfLife\GameOfLife.ViewModels\bin\Debug\net5.0\GameOfLife.Domain.dll
+C:\Users\Роман\source\repos\GameOfLife\GameOfLife.ViewModels\bin\Debug\net5.0\GameOfLife.Domain.pdb
+C:\Users\Роман\source\repos\GameOfLife\GameOfLife.ViewModels\obj\Debug\net5.0\GameOfLife.ViewModels.csproj.AssemblyReference.cache
+C:\Users\Роман\source\repos\GameOfLife\GameOfLife.ViewModels\obj\Debug\net5.0\GameOfLife.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Роман\source\repos\GameOfLife\GameOfLife.ViewModels\obj\Debug\net5.0\GameOfLife.ViewModels.AssemblyInfoInputs.cache
+C:\Users\Роман\source\repos\GameOfLife\GameOfLife.ViewModels\obj\Debug\net5.0\GameOfLife.ViewModels.AssemblyInfo.cs
+C:\Users\Роман\source\repos\GameOfLife\GameOfLife.ViewModels\obj\Debug\net5.0\GameOfLife.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\Роман\source\repos\GameOfLife\GameOfLife.ViewModels\obj\Debug\net5.0\GameOfLife.ViewModels.csproj.Fody.CopyLocal.cache
+C:\Users\Роман\source\repos\GameOfLife\GameOfLife.ViewModels\obj\Debug\net5.0\GameOfLife.ViewModels.csproj.CopyComplete
+C:\Users\Роман\source\repos\GameOfLife\GameOfLife.ViewModels\obj\Debug\net5.0\GameOfLife.ViewModels.dll
+C:\Users\Роман\source\repos\GameOfLife\GameOfLife.ViewModels\obj\Debug\net5.0\ref\GameOfLife.ViewModels.dll
+C:\Users\Роман\source\repos\GameOfLife\GameOfLife.ViewModels\obj\Debug\net5.0\GameOfLife.ViewModels.pdb

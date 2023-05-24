@@ -1,0 +1,12 @@
+C:\Users\Роман\source\repos\GameOfLife\GameOfLife.Domain\bin\Debug\net5.0\GameOfLife.Domain.deps.json
+C:\Users\Роман\source\repos\GameOfLife\GameOfLife.Domain\bin\Debug\net5.0\GameOfLife.Domain.dll
+C:\Users\Роман\source\repos\GameOfLife\GameOfLife.Domain\bin\Debug\net5.0\ref\GameOfLife.Domain.dll
+C:\Users\Роман\source\repos\GameOfLife\GameOfLife.Domain\bin\Debug\net5.0\GameOfLife.Domain.pdb
+C:\Users\Роман\source\repos\GameOfLife\GameOfLife.Domain\obj\Debug\net5.0\GameOfLife.Domain.csproj.AssemblyReference.cache
+C:\Users\Роман\source\repos\GameOfLife\GameOfLife.Domain\obj\Debug\net5.0\GameOfLife.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Роман\source\repos\GameOfLife\GameOfLife.Domain\obj\Debug\net5.0\GameOfLife.Domain.AssemblyInfoInputs.cache
+C:\Users\Роман\source\repos\GameOfLife\GameOfLife.Domain\obj\Debug\net5.0\GameOfLife.Domain.AssemblyInfo.cs
+C:\Users\Роман\source\repos\GameOfLife\GameOfLife.Domain\obj\Debug\net5.0\GameOfLife.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Роман\source\repos\GameOfLife\GameOfLife.Domain\obj\Debug\net5.0\GameOfLife.Domain.dll
+C:\Users\Роман\source\repos\GameOfLife\GameOfLife.Domain\obj\Debug\net5.0\ref\GameOfLife.Domain.dll
+C:\Users\Роман\source\repos\GameOfLife\GameOfLife.Domain\obj\Debug\net5.0\GameOfLife.Domain.pdb
